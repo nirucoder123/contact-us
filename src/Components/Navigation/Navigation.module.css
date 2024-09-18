@@ -1,0 +1,17 @@
+.navigation {
+    padding: 0 8px;
+    display: flex;
+    height: 72px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  .logo img {
+    width: 72px;
+  }
+  .navigation ul {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+    font-weight: 500;
+  }
